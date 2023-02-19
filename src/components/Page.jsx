@@ -1,6 +1,6 @@
 Page.jsx
 import LogoBarbershop from "../images/logo-barbershop.png"
-Pimport Linea1B from "../images/Linea1B.png"
+import Linea1B from "../images/Linea1B.png"
 import Linea1N from "../images/Linea1N.png"
 import Ourwork01 from "../images/ourwork01.png"
 import Ourwork20 from "../images/ourwork20.png"
