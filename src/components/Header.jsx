@@ -1,4 +1,5 @@
 Header.jsx
+import CirculoBarber from "../images/Circulo-Barbershop1985.svg"
 
 function Header() {
 
@@ -8,7 +9,7 @@ function Header() {
 			  <div className="flex flex-auto h-full items-center justify-center md:w-1/5">
 			  	<div className="md:col-span-2 md:pl-4 max-w-[2%] md:max-w-[50%]">
 			  		<a href="#barbershop">
-		  				<img src="../src/images/Circulo-Barbershop1985.svg"/>
+		  				<img src={CirculoBarber}/>
 		  			</a>
 			  	</div>
 			  </div>
