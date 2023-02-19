@@ -1,6 +1,6 @@
 Page.jsx
 import LogoBarbershop from "../images/logo-barbershop.png"
-import Linea1B from "../images/Linea1B.png"
+Pimport Linea1B from "../images/Linea1B.png"
 import Linea1N from "../images/Linea1N.png"
 import Ourwork01 from "../images/ourwork01.png"
 import Ourwork20 from "../images/ourwork20.png"
@@ -168,7 +168,7 @@ function Page() {
 						<img className="items-center max-w-[40%] md:max-w-[20%]" src={Linea1N}/>
 					</div>
 					<div className="text-center">
-						<div className="font-dm-serif text-lime-100  text-1xl md:text-2xl my-4 mx-9">
+						<div className="font-dm-serif text-black  text-1xl md:text-2xl my-4 mx-9">
 							<p >Los barbers a los que confiarías tu cabello y tu vida.
 							</p> 
 						</div>
